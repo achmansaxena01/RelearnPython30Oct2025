@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="update5">
-      <change afterPath="$PROJECT_DIR$/Dec_2025/Dec8/Lab003_NumericDataType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec_2025/Dec12/Lab004_string data types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec_2025/Dec8/Lab003_NumericDataType.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec_2025/Dec8/Lab003_NumericDataType.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765181470664</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update5">
+      <option name="closed" value="true" />
+      <created>1765466953375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765466953375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +184,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Nov_2025/Nov1/Lab001.py" />
     <MESSAGE value="update3" />
     <MESSAGE value="update4" />
+    <MESSAGE value="update6" />
     <MESSAGE value="update5" />
     <option name="LAST_COMMIT_MESSAGE" value="update5" />
   </component>

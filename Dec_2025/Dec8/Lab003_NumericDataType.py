@@ -20,3 +20,9 @@ h = True    #Boolean Variable
 print(h, type(h))
 
 print (9>8)
+
+i = int(b)
+print(i, type(i))
+
+j = float("77.89")
+print(j, type(j))
