@@ -26,3 +26,6 @@ print(i, type(i))
 
 j = float("77.89")
 print(j, type(j))
+
+k = hex(c)
+print(k, type(k))

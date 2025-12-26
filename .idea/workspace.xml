@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="update5">
-      <change afterPath="$PROJECT_DIR$/Dec_2025/Dec12/Lab004_string data types.py" afterDir="false" />
+    <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="update7">
+      <change afterPath="$PROJECT_DIR$/Dec_2025/Dec12/Lab004_identifiers .py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec_2025/Dec12/Lab004_string data types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec_2025/Dec23/Lab005_Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dec_2025/Dec8/Lab003_NumericDataType.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec_2025/Dec8/Lab003_NumericDataType.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,10 @@
     &quot;accountId&quot;: &quot;0a674e63-05a3-4739-94f5-7759818d1c6f&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -53,17 +58,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab0002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_NumericDataType.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab0002.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab003_NumericDataType.executor": "Run",
+    "Python.Lab005_Strings.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Python.Lab005_Strings">
     <configuration name="Lab003_NumericDataType" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
@@ -87,8 +94,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab005_Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec_2025/Dec23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dec_2025/Dec23/Lab005_Strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab005_Strings" />
         <item itemvalue="Python.Lab003_NumericDataType" />
       </list>
     </recent_temporary>
@@ -96,7 +127,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
   </component>
@@ -165,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765466953375</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update7">
+      <option name="closed" value="true" />
+      <created>1765601900247</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765601900247</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +225,7 @@
     <MESSAGE value="update4" />
     <MESSAGE value="update6" />
     <MESSAGE value="update5" />
-    <option name="LAST_COMMIT_MESSAGE" value="update5" />
+    <MESSAGE value="update7" />
+    <option name="LAST_COMMIT_MESSAGE" value="update7" />
   </component>
 </project>
