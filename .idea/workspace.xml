@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/Jan_2026/Jan13/Lab011_rangetype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2026/Jan13/Lab012_bytearray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2026/Jan13/Lab013_Dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan13/Lab010_Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_2026/Jan13/Lab010_Sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan13/Lab013_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_2026/Jan13/Lab013_Dictionary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,25 +66,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab0002.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab003_NumericDataType.executor": "Run",
-    "Python.Lab005_Strings.executor": "Run",
-    "Python.Lab007_List_Type.executor": "Run",
-    "Python.Lab008_Tuple.executor": "Run",
-    "Python.Lab009_Tuple2.executor": "Run",
-    "Python.Lab010_Sets.executor": "Run",
-    "Python.Lab011_rangetype.executor": "Run",
-    "Python.Lab012_bytearray.executor": "Run",
-    "Python.Lab013_Dictionary.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.updates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab0002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_NumericDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_List_Type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_Tuple2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010_Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011_rangetype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012_bytearray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013_Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Lab013_Dictionary">
     <configuration name="Lab009_Tuple2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
@@ -217,7 +214,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
   </component>
@@ -598,7 +595,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768299374971</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1768382815759</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1768382815759</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -12,4 +12,7 @@ print(Dic1.values())
 V1 = Dic1.values()
 for i in V1: print(i)
 
+print(Dic1[3])
 
+del Dic1[2]
+print(Dic1)
