@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/Jan_2026/Jan29/Lab017_Summary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb12/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb12/Self_001_Primenumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb12/Self_002_PrimeNumerstill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb12/Self_003_Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb12/Self_004_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb14/Lab019_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb14/Lab020_Grocerry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb14/Lab021_studentsDetails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb14/Lab022_Avarage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb14/Lab023_AreaofCircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab024_Control statement_ifElse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab025_EvenOdd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,15 +94,33 @@
     "Python.Lab015_none type.executor": "Run",
     "Python.Lab016_EscapeCharacters.executor": "Run",
     "Python.Lab017_Summary.executor": "Run",
+    "Python.Lab018 (1).executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019_input.executor": "Run",
+    "Python.Lab020_Grocerry.executor": "Run",
+    "Python.Lab021_studentsDetails.executor": "Run",
+    "Python.Lab022_Avarage.executor": "Run",
+    "Python.Lab023_AreaofCircle.executor": "Run",
+    "Python.Lab025_EvenOdd.executor": "Run",
     "Python.Lab15_none type.executor": "Run",
+    "Python.Self_001_Primenumbers.executor": "Run",
+    "Python.Self_002_PrimeNumerstill.executor": "Run",
+    "Python.Self_003_Palindrome.executor": "Run",
+    "Python.Self_004_list.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.updates"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab017_Summary">
-    <configuration name="Lab011_rangetype" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb15_Control statements" />
+      <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lab025_EvenOdd">
+    <configuration name="Lab020_Grocerry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,12 +129,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2026/Jan13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jan_2026/Jan13/Lab011_rangetype.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb_2026/Feb14/Lab020_Grocerry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab014_Datastructures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab021_studentsDetails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,12 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2026/Jan29" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jan_2026/Jan29/Lab014_Datastructures.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb_2026/Feb14/Lab021_studentsDetails.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab015_none type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab022_Avarage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,12 +175,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2026/Jan29" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Jan_2026\Jan29\Lab015_none type.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb_2026/Feb14/Lab022_Avarage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab016_EscapeCharacters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab023_AreaofCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,12 +198,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2026/Jan29" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jan_2026/Jan29/Lab016_EscapeCharacters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb_2026/Feb14/Lab023_AreaofCircle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab017_Summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab025_EvenOdd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,12 +221,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2026/Jan29" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb15_Control statements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jan_2026/Jan29/Lab017_Summary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab025_EvenOdd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,18 +237,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab017_Summary" />
-        <item itemvalue="Python.Lab011_rangetype" />
-        <item itemvalue="Python.Lab016_EscapeCharacters" />
-        <item itemvalue="Python.Lab015_none type" />
-        <item itemvalue="Python.Lab014_Datastructures" />
+        <item itemvalue="Python.Lab025_EvenOdd" />
+        <item itemvalue="Python.Lab023_AreaofCircle" />
+        <item itemvalue="Python.Lab022_Avarage" />
+        <item itemvalue="Python.Lab021_studentsDetails" />
+        <item itemvalue="Python.Lab020_Grocerry" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -231,14 +260,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762001857137</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update4">
-      <option name="closed" value="true" />
-      <created>1762003664411</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1762003664411</updated>
     </task>
     <task id="LOCAL-00004" summary="update5">
       <option name="closed" value="true" />
@@ -624,7 +645,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769695581941</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1769771709654</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1769771709656</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
