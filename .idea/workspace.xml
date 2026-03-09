@@ -4,49 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/100DaysLearning/001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab035.py" afterDir="false" />
+    <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="refractor 06032026">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec_2025/Dec12/Lab004_identifiers .py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab004_identifiers .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec_2025/Dec23/Lab005_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab005_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec_2025/Dec30/Lab006_other_data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab006_other_data_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec_2025/Dec8/Lab0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec_2025/Dec8/Lab003_NumericDataType.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab003_NumericDataType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb12/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb12/Self_001_Primenumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Self_001_Primenumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb12/Self_002_PrimeNumerstill.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Self_002_PrimeNumerstill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb12/Self_003_Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Self_003_Palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb12/Self_004_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Self_004_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb14/Lab019_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab019_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb14/Lab020_Grocerry.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab020_Grocerry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb14/Lab021_studentsDetails.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab021_studentsDetails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb14/Lab022_Avarage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab022_Avarage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb14/Lab023_AreaofCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab023_AreaofCircle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab024_Control statement_ifElse.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab024_Control statement_ifElse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab025_EvenOdd.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab025_EvenOdd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab026_Whiledemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab026_Whiledemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab027_oddnumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab027_oddnumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab028_PrintNumber using for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab028_PrintNumber using for loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab029_productoflist.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab029_productoflist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab030_multiplicationtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab030_multiplicationtable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab031_BreakDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab031_BreakDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab032_continueDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab032_continueDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab033_assert.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab033_assert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab034_VovelCounter.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab034_VovelCounter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feb_2026/Feb15_Control statements/Lab034_removeduplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab034_removeduplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan09/Lab007_List_Type.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab007_List_Type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan12/Lab008_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab008_Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan12/Lab009_Tuple2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab009_Tuple2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan13/Lab010_Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab010_Sets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan13/Lab011_rangetype.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab011_rangetype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan13/Lab012_bytearray.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab012_bytearray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan13/Lab013_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab013_Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan29/Lab014_Datastructures.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab014_Datastructures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan29/Lab015_none type.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab015_none type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan29/Lab016_EscapeCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab016_EscapeCharacters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2026/Jan29/Lab017_Summary.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab017_Summary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov_2025/Nov1/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab022_Avarage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab022_Average_of_3numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab035_Average_of_n_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,52 +67,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab0002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_NumericDataType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007_List_Type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009_Tuple2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010_Sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011_rangetype.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012_bytearray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013_Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Datastructures.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015_none type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016_EscapeCharacters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017_Summary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab019_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab020_Grocerry.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021_studentsDetails.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_Avarage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab023_AreaofCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025_EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab026_Whiledemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab028_PrintNumber using for loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab029_productoflist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab030_multiplicationtable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_BreakDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab032_continueDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab033_assert.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_VovelCounter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_removeduplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab15_none type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lan027_oddnumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_001_Primenumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_002_PrimeNumerstill.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_003_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_004_list.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab0002.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab003_NumericDataType.executor": "Run",
+    "Python.Lab005_Strings.executor": "Run",
+    "Python.Lab007_List_Type.executor": "Run",
+    "Python.Lab008_Tuple.executor": "Run",
+    "Python.Lab009_Tuple2.executor": "Run",
+    "Python.Lab010_Sets.executor": "Run",
+    "Python.Lab011_rangetype.executor": "Run",
+    "Python.Lab012_bytearray.executor": "Run",
+    "Python.Lab013_Dictionary.executor": "Run",
+    "Python.Lab014_Datastructures.executor": "Run",
+    "Python.Lab015_none type.executor": "Run",
+    "Python.Lab016_EscapeCharacters.executor": "Run",
+    "Python.Lab017_Summary.executor": "Run",
+    "Python.Lab018 (1).executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019_input.executor": "Run",
+    "Python.Lab020_Grocerry.executor": "Run",
+    "Python.Lab021_studentsDetails.executor": "Run",
+    "Python.Lab022_Avarage.executor": "Run",
+    "Python.Lab022_Average_of_3numbers (1).executor": "Run",
+    "Python.Lab023_AreaofCircle.executor": "Run",
+    "Python.Lab025_EvenOdd.executor": "Run",
+    "Python.Lab026_Whiledemo.executor": "Run",
+    "Python.Lab028_PrintNumber using for loop.executor": "Run",
+    "Python.Lab029_productoflist.executor": "Run",
+    "Python.Lab030_multiplicationtable.executor": "Run",
+    "Python.Lab031_BreakDemo.executor": "Run",
+    "Python.Lab032_continueDemo.executor": "Run",
+    "Python.Lab033_assert.executor": "Run",
+    "Python.Lab034_VovelCounter.executor": "Run",
+    "Python.Lab034_removeduplicate.executor": "Run",
+    "Python.Lab035_Average_of_n_numbers.executor": "Run",
+    "Python.Lab15_none type.executor": "Run",
+    "Python.Lan027_oddnumbers.executor": "Run",
+    "Python.Self_001_Primenumbers.executor": "Run",
+    "Python.Self_002_PrimeNumerstill.executor": "Run",
+    "Python.Self_003_Palindrome.executor": "Run",
+    "Python.Self_004_list.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners" />
@@ -160,8 +123,8 @@
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab034_VovelCounter">
-    <configuration name="Lab031_BreakDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab035_Average_of_n_numbers">
+    <configuration name="Lab022_Average_of_3numbers (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,12 +133,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb15_Control statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab031_BreakDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab022_Average_of_3numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab032_continueDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab022_Average_of_3numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,35 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb15_Control statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab032_continueDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab033_assert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RelearnPython30Oct2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb15_Control statements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab033_assert.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab022_Average_of_3numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,13 +216,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab035_Average_of_n_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab035_Average_of_n_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab035_Average_of_n_numbers" />
+        <item itemvalue="Python.Lab022_Average_of_3numbers (1)" />
+        <item itemvalue="Python.Lab022_Average_of_3numbers" />
         <item itemvalue="Python.Lab034_VovelCounter" />
         <item itemvalue="Python.Lab034_removeduplicate" />
-        <item itemvalue="Python.Lab033_assert" />
-        <item itemvalue="Python.Lab032_continueDemo" />
-        <item itemvalue="Python.Lab031_BreakDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -301,22 +264,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762001857137</updated>
-    </task>
-    <task id="LOCAL-00007" summary="update5">
-      <option name="closed" value="true" />
-      <created>1765466953375</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1765466953375</updated>
-    </task>
-    <task id="LOCAL-00008" summary="update7">
-      <option name="closed" value="true" />
-      <created>1765601900247</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1765601900247</updated>
     </task>
     <task id="LOCAL-00009" summary="update8">
       <option name="closed" value="true" />
@@ -694,7 +641,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771234044739</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="refractor 06032026">
+      <option name="closed" value="true" />
+      <created>1772815528501</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1772815528501</updated>
+    </task>
+    <task id="LOCAL-00057" summary="refractor 06032026">
+      <option name="closed" value="true" />
+      <created>1772815579856</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1772815579856</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -723,6 +686,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Jan_2026/Jan09/Lab007_List_Type.py&#10;#&#9;Jan_2026/Jan12/Lab008_Tuple.py" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="refractor 06032026" />
+    <option name="LAST_COMMIT_MESSAGE" value="refractor 06032026" />
   </component>
 </project>
