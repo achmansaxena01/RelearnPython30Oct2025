@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="refractor 06032026">
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab036_employeeinfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Self_005_Palindrome_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Self_006_stars1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Self_007_stars2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Self_008_stars3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Self_009_stars4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab022_Avarage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab022_Average_of_3numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab035_Average_of_n_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab029_productoflist.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab029_productoflist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,19 +108,31 @@
     "Python.Lab034_VovelCounter.executor": "Run",
     "Python.Lab034_removeduplicate.executor": "Run",
     "Python.Lab035_Average_of_n_numbers.executor": "Run",
+    "Python.Lab036_employeeinfo.executor": "Run",
     "Python.Lab15_none type.executor": "Run",
     "Python.Lan027_oddnumbers.executor": "Run",
     "Python.Self_001_Primenumbers.executor": "Run",
     "Python.Self_002_PrimeNumerstill.executor": "Run",
     "Python.Self_003_Palindrome.executor": "Run",
     "Python.Self_004_list.executor": "Run",
+    "Python.Self_005_Palindrome_char.executor": "Run",
+    "Python.Self_006_stars.executor": "Run",
+    "Python.Self_006_stars1 (1).executor": "Run",
+    "Python.Self_006_stars1.executor": "Run",
+    "Python.Self_007_stars2.executor": "Run",
+    "Python.Self_008_stars3.executor": "Run",
+    "Python.Self_009_stars4.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/AchmanSaxena/PycharmProjects/RelearnPython30Oct2025/PythonForBeginners",
     "settings.editor.selected.configurable": "preferences.updates"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners" />
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\100DaysLearning" />
@@ -123,8 +140,8 @@
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab035_Average_of_n_numbers">
-    <configuration name="Lab022_Average_of_3numbers (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Self_009_stars4">
+    <configuration name="Self_006_stars1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +155,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab022_Average_of_3numbers.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\personal\Self_006_stars1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab022_Average_of_3numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Self_006_stars1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,7 +178,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab022_Average_of_3numbers.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\personal\Self_006_stars1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,53 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab034_VovelCounter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RelearnPython30Oct2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb15_Control statements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab034_VovelCounter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab034_removeduplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RelearnPython30Oct2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feb_2026/Feb15_Control statements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab034_removeduplicate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab035_Average_of_n_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Self_007_stars2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,7 +201,53 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab035_Average_of_n_numbers.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\personal\Self_007_stars2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Self_008_stars3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\personal\Self_008_stars3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Self_009_stars4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\personal\Self_009_stars4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab035_Average_of_n_numbers" />
-        <item itemvalue="Python.Lab022_Average_of_3numbers (1)" />
-        <item itemvalue="Python.Lab022_Average_of_3numbers" />
-        <item itemvalue="Python.Lab034_VovelCounter" />
-        <item itemvalue="Python.Lab034_removeduplicate" />
+        <item itemvalue="Python.Self_009_stars4" />
+        <item itemvalue="Python.Self_008_stars3" />
+        <item itemvalue="Python.Self_007_stars2" />
+        <item itemvalue="Python.Self_006_stars1 (1)" />
+        <item itemvalue="Python.Self_006_stars1" />
       </list>
     </recent_temporary>
   </component>
@@ -264,14 +281,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762001857137</updated>
-    </task>
-    <task id="LOCAL-00009" summary="update8">
-      <option name="closed" value="true" />
-      <created>1766772074285</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1766772074285</updated>
     </task>
     <task id="LOCAL-00010" summary="update8">
       <option name="closed" value="true" />
@@ -657,7 +666,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772815579856</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="refractor 06032026">
+      <option name="closed" value="true" />
+      <created>1773046212354</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1773046212354</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
