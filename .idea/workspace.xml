@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="refractor 13032026">
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab45_triangle 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab46_find all position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab47_Command Line Arguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab44_Pyramid pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab44_Pyramid pattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,72 +66,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab-39_Character reversal string.executor": "Run",
-    "Python.Lab0002.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab003_NumericDataType.executor": "Run",
-    "Python.Lab005_Strings.executor": "Run",
-    "Python.Lab007_List_Type.executor": "Run",
-    "Python.Lab008_Tuple.executor": "Run",
-    "Python.Lab009_Tuple2.executor": "Run",
-    "Python.Lab010_Sets.executor": "Run",
-    "Python.Lab011_rangetype.executor": "Run",
-    "Python.Lab012_bytearray.executor": "Run",
-    "Python.Lab013_Dictionary.executor": "Run",
-    "Python.Lab014_Datastructures.executor": "Run",
-    "Python.Lab015_none type.executor": "Run",
-    "Python.Lab016_EscapeCharacters.executor": "Run",
-    "Python.Lab017_Summary.executor": "Run",
-    "Python.Lab018 (1).executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019_input.executor": "Run",
-    "Python.Lab020_Grocerry.executor": "Run",
-    "Python.Lab021_studentsDetails.executor": "Run",
-    "Python.Lab022_Avarage.executor": "Run",
-    "Python.Lab022_Average_of_3numbers (1).executor": "Run",
-    "Python.Lab023_AreaofCircle.executor": "Run",
-    "Python.Lab025_EvenOdd.executor": "Run",
-    "Python.Lab026_Whiledemo.executor": "Run",
-    "Python.Lab028_PrintNumber using for loop.executor": "Run",
-    "Python.Lab029_productoflist.executor": "Run",
-    "Python.Lab030_multiplicationtable.executor": "Run",
-    "Python.Lab031_BreakDemo.executor": "Run",
-    "Python.Lab032_continueDemo.executor": "Run",
-    "Python.Lab033_assert.executor": "Run",
-    "Python.Lab034_VovelCounter.executor": "Run",
-    "Python.Lab034_removeduplicate.executor": "Run",
-    "Python.Lab035_Average_of_n_numbers.executor": "Run",
-    "Python.Lab036_employeeinfo.executor": "Run",
-    "Python.Lab036_string_reversal.executor": "Run",
-    "Python.Lab038_Word reversal.executor": "Run",
-    "Python.Lab040_Remove duplicate chars.executor": "Run",
-    "Python.Lab041_Char count in a string.executor": "Run",
-    "Python.Lab042_Char count in a string 2.executor": "Run",
-    "Python.Lab15_none type.executor": "Run",
-    "Python.Lab43_right angled triangle.executor": "Run",
-    "Python.Lab44_Pyramid pattern.executor": "Run",
-    "Python.Lab45_triangle 2.executor": "Run",
-    "Python.Lan027_oddnumbers.executor": "Run",
-    "Python.Self_001_Primenumbers.executor": "Run",
-    "Python.Self_002_PrimeNumerstill.executor": "Run",
-    "Python.Self_003_Palindrome.executor": "Run",
-    "Python.Self_004_list.executor": "Run",
-    "Python.Self_005_Palindrome_char.executor": "Run",
-    "Python.Self_006_stars.executor": "Run",
-    "Python.Self_006_stars1 (1).executor": "Run",
-    "Python.Self_006_stars1.executor": "Run",
-    "Python.Self_007_stars2.executor": "Run",
-    "Python.Self_008_stars3.executor": "Run",
-    "Python.Self_009_stars4.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/AchmanSaxena/PycharmProjects/RelearnPython30Oct2025/PythonForBeginners",
-    "settings.editor.selected.configurable": "preferences.updates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab-39_Character reversal string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_NumericDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_List_Type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_Tuple2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010_Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011_rangetype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012_bytearray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013_Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_Datastructures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015_none type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016_EscapeCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017_Summary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019_input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_Grocerry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021_studentsDetails.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_Avarage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_Average_of_3numbers (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_AreaofCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026_Whiledemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_PrintNumber using for loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_productoflist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_multiplicationtable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_BreakDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032_continueDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_assert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_VovelCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_removeduplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab035_Average_of_n_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036_employeeinfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036_string_reversal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038_Word reversal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Remove duplicate chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041_Char count in a string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042_Char count in a string 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab15_none type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab43_right angled triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab44_Pyramid pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab45_triangle 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab47_Command Line Arguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lan027_oddnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_001_Primenumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_002_PrimeNumerstill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_003_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_004_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_005_Palindrome_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_006_stars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_006_stars1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_006_stars1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_007_stars2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_008_stars3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self_009_stars4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AchmanSaxena/PycharmProjects/RelearnPython30Oct2025/PythonForBeginners&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners" />
@@ -146,7 +145,7 @@
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab44_Pyramid pattern">
+  <component name="RunManager" selected="Python.Lab47_Command Line Arguments">
     <configuration name="Lab44_Pyramid pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
@@ -193,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Self_006_stars1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab47_Command Line Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,13 +201,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners/personal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/personal/Self_006_stars1.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab47_Command Line Arguments.py" />
+      <option name="PARAMETERS" value="3" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -262,13 +261,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (RelearnPython30Oct2025)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Lab44_Pyramid pattern" />
+      <item itemvalue="Python.Lab45_triangle 2" />
+      <item itemvalue="Python.Lab47_Command Line Arguments" />
+      <item itemvalue="Python.Self_008_stars3" />
+      <item itemvalue="Python.Self_009_stars4" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab47_Command Line Arguments" />
         <item itemvalue="Python.Lab44_Pyramid pattern" />
         <item itemvalue="Python.Lab45_triangle 2" />
         <item itemvalue="Python.Self_009_stars4" />
         <item itemvalue="Python.Self_008_stars3" />
-        <item itemvalue="Python.Self_006_stars1" />
       </list>
     </recent_temporary>
   </component>
@@ -287,14 +317,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762001857137</updated>
-    </task>
-    <task id="LOCAL-00013" summary="update8">
-      <option name="closed" value="true" />
-      <created>1767086424915</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1767086424915</updated>
     </task>
     <task id="LOCAL-00014" summary="update9">
       <option name="closed" value="true" />
@@ -680,7 +702,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773844632345</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="refractor 13032026">
+      <option name="closed" value="true" />
+      <created>1773921500821</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1773921500821</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
