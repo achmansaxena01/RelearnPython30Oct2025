@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="refractor 23032026">
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab48_Average function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab49_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab50_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab51_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab52_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab53_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab54_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab55_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab50_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab50_Globalandlocal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab51_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab51_Greeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab52_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab52_funinsidefun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab53_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab53_returnFun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab54_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab54_Listfun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab55_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab55_recursion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +121,10 @@
     "Python.Lab47_Command Line Arguments.executor": "Run",
     "Python.Lab48_Average function.executor": "Run",
     "Python.Lab49_calc.executor": "Run",
+    "Python.Lab50_Globalandlocal.executor": "Run",
+    "Python.Lab51_Greeting.executor": "Run",
+    "Python.Lab52_funinsidefun.executor": "Run",
+    "Python.Lab53_returnFun.executor": "Run",
     "Python.Lan027_oddnumbers.executor": "Run",
     "Python.Self_001_Primenumbers.executor": "Run",
     "Python.Self_002_PrimeNumerstill.executor": "Run",
@@ -154,100 +156,7 @@
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab49_calc">
-    <configuration name="Lab44_Pyramid pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RelearnPython30Oct2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab44_Pyramid pattern.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab45_triangle 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RelearnPython30Oct2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab45_triangle 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab47_Command Line Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RelearnPython30Oct2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab47_Command Line Arguments.py" />
-      <option name="PARAMETERS" value="3" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab48_Average function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RelearnPython30Oct2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.10 (RelearnPython30Oct2025)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab48_Average function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab53_returnFun">
     <configuration name="Lab49_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
@@ -264,6 +173,102 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab49_calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab50_Globalandlocal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (RelearnPython30Oct2025)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab50_Globalandlocal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab51_Greeting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (RelearnPython30Oct2025)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab51_Greeting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab52_funinsidefun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (RelearnPython30Oct2025)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab52_funinsidefun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab53_returnFun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (RelearnPython30Oct2025)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab53_returnFun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,19 +302,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Lab48_Average function" />
       <item itemvalue="Python.Lab49_calc" />
-      <item itemvalue="Python.Lab44_Pyramid pattern" />
-      <item itemvalue="Python.Lab45_triangle 2" />
-      <item itemvalue="Python.Lab47_Command Line Arguments" />
+      <item itemvalue="Python.Lab50_Globalandlocal" />
+      <item itemvalue="Python.Lab51_Greeting" />
+      <item itemvalue="Python.Lab52_funinsidefun" />
+      <item itemvalue="Python.Lab53_returnFun" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab53_returnFun" />
+        <item itemvalue="Python.Lab52_funinsidefun" />
+        <item itemvalue="Python.Lab51_Greeting" />
+        <item itemvalue="Python.Lab50_Globalandlocal" />
         <item itemvalue="Python.Lab49_calc" />
-        <item itemvalue="Python.Lab48_Average function" />
-        <item itemvalue="Python.Lab47_Command Line Arguments" />
-        <item itemvalue="Python.Lab44_Pyramid pattern" />
-        <item itemvalue="Python.Lab45_triangle 2" />
       </list>
     </recent_temporary>
   </component>
@@ -328,14 +333,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762001857137</updated>
-    </task>
-    <task id="LOCAL-00015" summary="update9">
-      <option name="closed" value="true" />
-      <created>1768041516189</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1768041516189</updated>
     </task>
     <task id="LOCAL-00016" summary="update10">
       <option name="closed" value="true" />
@@ -721,7 +718,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774284740232</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="refractor 23032026">
+      <option name="closed" value="true" />
+      <created>1774329007219</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1774329007219</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
