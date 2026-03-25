@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="refractor 24032026">
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab057_optionalArgsDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab058_Lambdas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab059_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab060_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab061_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab062_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab063_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab064_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab065_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab066_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab067_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab068_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab069_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab070_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab056_BMICalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab056_BMICalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab057_optionalArgsDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab057_optionalArgsDemo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +124,7 @@
     "Python.Lab042_Char count in a string 2.executor": "Run",
     "Python.Lab056_BMICalculator.executor": "Run",
     "Python.Lab057_optionalArgsDemo.executor": "Run",
+    "Python.Lab058_Lambdas.executor": "Run",
     "Python.Lab15_none type.executor": "Run",
     "Python.Lab43_right angled triangle.executor": "Run",
     "Python.Lab44_Pyramid pattern.executor": "Run",
@@ -155,7 +168,7 @@
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab057_optionalArgsDemo">
+  <component name="RunManager" selected="Python.Lab058_Lambdas">
     <configuration name="Lab048_Average function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
@@ -172,30 +185,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab048_Average function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab053_returnFun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RelearnPython30Oct2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.10 (RelearnPython30Oct2025)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners\Lab053_returnFun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,6 +265,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab058_Lambdas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RelearnPython30Oct2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (RelearnPython30Oct2025)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonForBeginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab058_Lambdas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
@@ -302,18 +315,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Lab048_Average function" />
-      <item itemvalue="Python.Lab053_returnFun" />
       <item itemvalue="Python.Lab055_recursion" />
       <item itemvalue="Python.Lab056_BMICalculator" />
       <item itemvalue="Python.Lab057_optionalArgsDemo" />
+      <item itemvalue="Python.Lab058_Lambdas" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab058_Lambdas" />
         <item itemvalue="Python.Lab057_optionalArgsDemo" />
         <item itemvalue="Python.Lab056_BMICalculator" />
         <item itemvalue="Python.Lab048_Average function" />
         <item itemvalue="Python.Lab055_recursion" />
-        <item itemvalue="Python.Lab053_returnFun" />
       </list>
     </recent_temporary>
   </component>
@@ -332,14 +345,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762001857137</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Jan_2026/Jan09/Lab007_List_Type.py&#10;#&#9;Jan_2026/Jan12/Lab008_Tuple.py">
-      <option name="closed" value="true" />
-      <created>1768286268032</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1768286268032</updated>
     </task>
     <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Jan_2026/Jan09/Lab007_List_Type.py&#10;#&#9;Jan_2026/Jan12/Lab008_Tuple.py">
       <option name="closed" value="true" />
@@ -725,7 +730,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774421363997</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="refractor 24032026">
+      <option name="closed" value="true" />
+      <created>1774426286051</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1774426286051</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
