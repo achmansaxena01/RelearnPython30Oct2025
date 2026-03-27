@@ -2,14 +2,14 @@
 # it also returns a function as a result
 #def my_decorator(func):
 
-def decor(fun):
+def decorfun(fun):
     def inner():
         result = fun()
         return result*2
     return inner
 
+@decorfun
 def num():
     return 5
 
-resultfun = decor(num)
-print(resultfun())
+print(num())

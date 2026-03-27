@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="refractor 24032026">
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab069_CustomGenerator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab059_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab059_Lamdasandfunction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab060_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab060_LamdaEvenOdd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab061_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab061_LambdaSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab062_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab062_EvenOrOddFilter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab063_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab063_DoubleUsingMap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab064_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab064_SumUsingReduce.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab065_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab065_decorators_double.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab065_decorators_double.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab065_decorators_double.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab066_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab066_decDouble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab067_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab067_DecorateString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab068_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab068_DecoratorChaining.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab069_.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,90 +71,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab-39_Character reversal string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_NumericDataType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007_List_Type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009_Tuple2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010_Sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011_rangetype.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012_bytearray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013_Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Datastructures.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015_none type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016_EscapeCharacters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017_Summary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab019_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab020_Grocerry.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021_studentsDetails.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_Avarage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_Average_of_3numbers (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab023_AreaofCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025_EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab026_Whiledemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab028_PrintNumber using for loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab029_productoflist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab030_multiplicationtable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_BreakDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab032_continueDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab033_assert.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_VovelCounter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_removeduplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab035_Average_of_n_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab036_employeeinfo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab036_string_reversal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038_Word reversal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040_Remove duplicate chars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab041_Char count in a string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab042_Char count in a string 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab056_BMICalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab057_optionalArgsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab058_Lambdas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab059_Lamdasandfunction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab060_LamdaEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab061_LambdaSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab062_EvenOrOddFilter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab063_DoubleUsingMap.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab064_SumUsingReduce.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab065_decorators_double.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab15_none type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab43_right angled triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab44_Pyramid pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab45_triangle 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab47_Command Line Arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab48_Average function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab49_calc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab50_Globalandlocal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab51_Greeting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab52_funinsidefun.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab53_returnFun.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab55_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lan027_oddnumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_001_Primenumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_002_PrimeNumerstill.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_003_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_004_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_005_Palindrome_char.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_006_stars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_006_stars1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_006_stars1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_007_stars2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_008_stars3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Self_009_stars4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/AchmanSaxena/PycharmProjects/RelearnPython30Oct2025/PythonForBeginners&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab-39_Character reversal string.executor": "Run",
+    "Python.Lab0002.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab003_NumericDataType.executor": "Run",
+    "Python.Lab005_Strings.executor": "Run",
+    "Python.Lab007_List_Type.executor": "Run",
+    "Python.Lab008_Tuple.executor": "Run",
+    "Python.Lab009_Tuple2.executor": "Run",
+    "Python.Lab010_Sets.executor": "Run",
+    "Python.Lab011_rangetype.executor": "Run",
+    "Python.Lab012_bytearray.executor": "Run",
+    "Python.Lab013_Dictionary.executor": "Run",
+    "Python.Lab014_Datastructures.executor": "Run",
+    "Python.Lab015_none type.executor": "Run",
+    "Python.Lab016_EscapeCharacters.executor": "Run",
+    "Python.Lab017_Summary.executor": "Run",
+    "Python.Lab018 (1).executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019_input.executor": "Run",
+    "Python.Lab020_Grocerry.executor": "Run",
+    "Python.Lab021_studentsDetails.executor": "Run",
+    "Python.Lab022_Avarage.executor": "Run",
+    "Python.Lab022_Average_of_3numbers (1).executor": "Run",
+    "Python.Lab023_AreaofCircle.executor": "Run",
+    "Python.Lab025_EvenOdd.executor": "Run",
+    "Python.Lab026_Whiledemo.executor": "Run",
+    "Python.Lab028_PrintNumber using for loop.executor": "Run",
+    "Python.Lab029_productoflist.executor": "Run",
+    "Python.Lab030_multiplicationtable.executor": "Run",
+    "Python.Lab031_BreakDemo.executor": "Run",
+    "Python.Lab032_continueDemo.executor": "Run",
+    "Python.Lab033_assert.executor": "Run",
+    "Python.Lab034_VovelCounter.executor": "Run",
+    "Python.Lab034_removeduplicate.executor": "Run",
+    "Python.Lab035_Average_of_n_numbers.executor": "Run",
+    "Python.Lab036_employeeinfo.executor": "Run",
+    "Python.Lab036_string_reversal.executor": "Run",
+    "Python.Lab038_Word reversal.executor": "Run",
+    "Python.Lab040_Remove duplicate chars.executor": "Run",
+    "Python.Lab041_Char count in a string.executor": "Run",
+    "Python.Lab042_Char count in a string 2.executor": "Run",
+    "Python.Lab056_BMICalculator.executor": "Run",
+    "Python.Lab057_optionalArgsDemo.executor": "Run",
+    "Python.Lab058_Lambdas.executor": "Run",
+    "Python.Lab059_Lamdasandfunction.executor": "Run",
+    "Python.Lab060_LamdaEvenOdd.executor": "Run",
+    "Python.Lab061_LambdaSum.executor": "Run",
+    "Python.Lab062_EvenOrOddFilter.executor": "Run",
+    "Python.Lab063_DoubleUsingMap.executor": "Run",
+    "Python.Lab064_SumUsingReduce.executor": "Run",
+    "Python.Lab065_decorators_double.executor": "Run",
+    "Python.Lab066_decDouble.executor": "Run",
+    "Python.Lab067_DecorateString.executor": "Run",
+    "Python.Lab068_DecoratorChaining.executor": "Run",
+    "Python.Lab069_CustomGenerator.executor": "Run",
+    "Python.Lab15_none type.executor": "Run",
+    "Python.Lab43_right angled triangle.executor": "Run",
+    "Python.Lab44_Pyramid pattern.executor": "Run",
+    "Python.Lab45_triangle 2.executor": "Run",
+    "Python.Lab47_Command Line Arguments.executor": "Run",
+    "Python.Lab48_Average function.executor": "Run",
+    "Python.Lab49_calc.executor": "Run",
+    "Python.Lab50_Globalandlocal.executor": "Run",
+    "Python.Lab51_Greeting.executor": "Run",
+    "Python.Lab52_funinsidefun.executor": "Run",
+    "Python.Lab53_returnFun.executor": "Run",
+    "Python.Lab55_recursion.executor": "Run",
+    "Python.Lan027_oddnumbers.executor": "Run",
+    "Python.Self_001_Primenumbers.executor": "Run",
+    "Python.Self_002_PrimeNumerstill.executor": "Run",
+    "Python.Self_003_Palindrome.executor": "Run",
+    "Python.Self_004_list.executor": "Run",
+    "Python.Self_005_Palindrome_char.executor": "Run",
+    "Python.Self_006_stars.executor": "Run",
+    "Python.Self_006_stars1 (1).executor": "Run",
+    "Python.Self_006_stars1.executor": "Run",
+    "Python.Self_007_stars2.executor": "Run",
+    "Python.Self_008_stars3.executor": "Run",
+    "Python.Self_009_stars4.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/AchmanSaxena/PycharmProjects/RelearnPython30Oct2025/PythonForBeginners",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\PythonForBeginners" />
@@ -168,8 +171,8 @@
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab065_decorators_double">
-    <configuration name="Lab061_LambdaSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab070_Keywords">
+    <configuration name="Lab066_decDouble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +187,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab061_LambdaSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab066_decDouble.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab062_EvenOrOddFilter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab067_DecorateString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +211,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab062_EvenOrOddFilter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab067_DecorateString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab063_DoubleUsingMap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab068_DecoratorChaining" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,7 +235,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab063_DoubleUsingMap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab068_DecoratorChaining.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab064_SumUsingReduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab069_CustomGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,7 +259,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab064_SumUsingReduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab069_CustomGenerator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab065_decorators_double" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab070_Keywords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,7 +283,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab065_decorators_double.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab070_Keywords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,19 +317,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Lab061_LambdaSum" />
-      <item itemvalue="Python.Lab062_EvenOrOddFilter" />
-      <item itemvalue="Python.Lab063_DoubleUsingMap" />
-      <item itemvalue="Python.Lab064_SumUsingReduce" />
-      <item itemvalue="Python.Lab065_decorators_double" />
+      <item itemvalue="Python.Lab066_decDouble" />
+      <item itemvalue="Python.Lab067_DecorateString" />
+      <item itemvalue="Python.Lab068_DecoratorChaining" />
+      <item itemvalue="Python.Lab069_CustomGenerator" />
+      <item itemvalue="Python.Lab070_Keywords" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab065_decorators_double" />
-        <item itemvalue="Python.Lab064_SumUsingReduce" />
-        <item itemvalue="Python.Lab063_DoubleUsingMap" />
-        <item itemvalue="Python.Lab062_EvenOrOddFilter" />
-        <item itemvalue="Python.Lab061_LambdaSum" />
+        <item itemvalue="Python.Lab070_Keywords" />
+        <item itemvalue="Python.Lab069_CustomGenerator" />
+        <item itemvalue="Python.Lab068_DecoratorChaining" />
+        <item itemvalue="Python.Lab067_DecorateString" />
+        <item itemvalue="Python.Lab066_decDouble" />
       </list>
     </recent_temporary>
   </component>
@@ -345,14 +348,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762001857137</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Jan_2026/Jan09/Lab007_List_Type.py&#10;#&#9;Jan_2026/Jan12/Lab008_Tuple.py">
-      <option name="closed" value="true" />
-      <created>1768286317023</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1768286317023</updated>
     </task>
     <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Jan_2026/Jan09/Lab007_List_Type.py&#10;#&#9;Jan_2026/Jan12/Lab008_Tuple.py">
       <option name="closed" value="true" />
@@ -738,7 +733,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774430443733</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="refractor 24032026">
+      <option name="closed" value="true" />
+      <created>1774527479188</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1774527479188</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
