@@ -13,3 +13,10 @@ for i in range(10):
 
 for i in range(10):
     print(randrange(10))
+
+for i in range(10):
+    print(randrange(1,12,2))
+
+list = ["java","python","devops","aws"]
+for i in range(10):
+    print(choice(list))
