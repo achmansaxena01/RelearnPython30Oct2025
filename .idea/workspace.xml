@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d0bfd-b62a-47e2-ba06-7bb90f0cba2c" name="Changes" comment="refractor 30032026">
-      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab078_List Comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab081_Product of list Comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab082_Common elements Comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab083_OOPs concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab084_Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab085_Course.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab086_Programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab087_Instance method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab088_Methods vs constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab089_Students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab090_ObjectCounter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab091_innerDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab092_GCDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab093_Product_Create_Destructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab094_Clinicalsapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonForBeginners/Lab100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RelearnPython30Oct2025.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RelearnPython30Oct2025.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab076_RandomModuleDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab076_RandomModuleDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab077_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab077_Number_Guessing_Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab078_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab079_Cubes_of_numbers_Comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab079_.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonForBeginners/Lab080_Even Numbers Comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonForBeginners/Lab080_.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +152,17 @@
     "Python.Lab077_Number_Guessing_Game.executor": "Run",
     "Python.Lab079_Cubes_of_numbers_Comprehension.executor": "Run",
     "Python.Lab080_Even Numbers Comprehension.executor": "Run",
+    "Python.Lab081_Product of list Comprehension.executor": "Run",
+    "Python.Lab082_Common elements Comprehension.executor": "Run",
+    "Python.Lab084_Classes.executor": "Run",
+    "Python.Lab085_Course.executor": "Run",
+    "Python.Lab086_Programmer.executor": "Run",
+    "Python.Lab087_Instance method.executor": "Run",
+    "Python.Lab089_Students.executor": "Run",
+    "Python.Lab090_ObjectCounter.executor": "Run",
+    "Python.Lab091_innerDemo.executor": "Run",
+    "Python.Lab092_GCDemo.executor": "Run",
+    "Python.Lab093_Product_Create_Destructor.executor": "Run",
     "Python.Lab15_none type.executor": "Run",
     "Python.Lab43_right angled triangle.executor": "Run",
     "Python.Lab44_Pyramid pattern.executor": "Run",
@@ -172,7 +198,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.updates"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -187,8 +214,8 @@
       <recent name="C:\Users\AchmanSaxena\PycharmProjects\RelearnPython30Oct2025\Feb_2026\Feb12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab080_Even Numbers Comprehension">
-    <configuration name="Lab075_MathsDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab093_Product_Create_Destructor">
+    <configuration name="Lab087_Instance method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,8 +230,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab075_MathsDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab087_Instance method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab076_RandomModuleDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab090_ObjectCounter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,8 +256,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab076_RandomModuleDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab090_ObjectCounter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab077_Number_Guessing_Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab091_innerDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,8 +282,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab077_Number_Guessing_Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab091_innerDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab079_Cubes_of_numbers_Comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab092_GCDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,8 +308,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab079_Cubes_of_numbers_Comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab092_GCDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab080_Even Numbers Comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab093_Product_Create_Destructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RelearnPython30Oct2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,8 +334,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab080_Even Numbers Comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonForBeginners/Lab093_Product_Create_Destructor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,6 +360,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
@@ -339,19 +372,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Lab079_Cubes_of_numbers_Comprehension" />
-      <item itemvalue="Python.Lab080_Even Numbers Comprehension" />
-      <item itemvalue="Python.Lab075_MathsDemo" />
-      <item itemvalue="Python.Lab076_RandomModuleDemo" />
-      <item itemvalue="Python.Lab077_Number_Guessing_Game" />
+      <item itemvalue="Python.Lab087_Instance method" />
+      <item itemvalue="Python.Lab090_ObjectCounter" />
+      <item itemvalue="Python.Lab091_innerDemo" />
+      <item itemvalue="Python.Lab092_GCDemo" />
+      <item itemvalue="Python.Lab093_Product_Create_Destructor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab080_Even Numbers Comprehension" />
-        <item itemvalue="Python.Lab079_Cubes_of_numbers_Comprehension" />
-        <item itemvalue="Python.Lab077_Number_Guessing_Game" />
-        <item itemvalue="Python.Lab076_RandomModuleDemo" />
-        <item itemvalue="Python.Lab075_MathsDemo" />
+        <item itemvalue="Python.Lab093_Product_Create_Destructor" />
+        <item itemvalue="Python.Lab092_GCDemo" />
+        <item itemvalue="Python.Lab087_Instance method" />
+        <item itemvalue="Python.Lab091_innerDemo" />
+        <item itemvalue="Python.Lab090_ObjectCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -370,14 +403,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762001857137</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Jan_2026/Jan09/Lab007_List_Type.py&#10;#&#9;Jan_2026/Jan12/Lab008_Tuple.py">
-      <option name="closed" value="true" />
-      <created>1768286426410</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1768286426410</updated>
+      <workItem from="1774959972618" duration="4642000" />
+      <workItem from="1775121511152" duration="48000" />
+      <workItem from="1775121605607" duration="10409000" />
     </task>
     <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Jan_2026/Jan09/Lab007_List_Type.py&#10;#&#9;Jan_2026/Jan12/Lab008_Tuple.py">
       <option name="closed" value="true" />
@@ -763,7 +791,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774894137288</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="refractor 30032026">
+      <option name="closed" value="true" />
+      <created>1774957228472</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1774957228473</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -801,5 +837,18 @@
     <MESSAGE value="refractor 24032026" />
     <MESSAGE value="refractor 30032026" />
     <option name="LAST_COMMIT_MESSAGE" value="refractor 30032026" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab090_ObjectCounter.coverage" NAME="Lab090_ObjectCounter Coverage Results" MODIFIED="1775129810604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab089_Students.coverage" NAME="Lab089_Students Coverage Results" MODIFIED="1775129656605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab087_Instance_method.coverage" NAME="Lab087_Instance method Coverage Results" MODIFIED="1775130473289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab091_innerDemo.coverage" NAME="Lab091_innerDemo Coverage Results" MODIFIED="1775130148453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab093_Product_Create_Destructor.coverage" NAME="Lab093_Product_Create_Destructor Coverage Results" MODIFIED="1775130814530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab084_Classes.coverage" NAME="Lab084_Classes Coverage Results" MODIFIED="1775129174530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab081_Product_of_list_Comprehension.coverage" NAME="Lab081_Product of list Comprehension Coverage Results" MODIFIED="1774960226640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab086_Programmer.coverage" NAME="Lab086_Programmer Coverage Results" MODIFIED="1775128990661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab092_GCDemo.coverage" NAME="Lab092_GCDemo Coverage Results" MODIFIED="1775130619935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab082_Common_elements_Comprehension.coverage" NAME="Lab082_Common elements Comprehension Coverage Results" MODIFIED="1774961172146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
+    <SUITE FILE_PATH="coverage/RelearnPython30Oct2025$Lab085_Course.coverage" NAME="Lab085_Course Coverage Results" MODIFIED="1775128634398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonForBeginners" />
   </component>
 </project>
